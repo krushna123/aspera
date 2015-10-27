@@ -1,3 +1,0 @@
-# aspera
-asperdocroot
-test1
